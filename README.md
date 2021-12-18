@@ -1,0 +1,49 @@
+# Hello, I’m @int91 also known as c_onvulse.
+
+### Table Of Contents
+- [About Me](https://github.com/int91/int91/new/main?filename=README.md&path=%2F&value=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40int91%0A-+%F0%9F%91%80+I%E2%80%99m+interested+in+...%0A-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...%0A-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...%0A-+%F0%9F%93%AB+How+to+reach+me+...%0A%0A%3C%21---%0Aint91%2Fint91+is+a+%E2%9C%A8+special+%E2%9C%A8+repository+because+its+%60README.md%60+%28this+file%29+appears+on+your+GitHub+profile.%0AYou+can+click+the+Preview+link+to+take+a+look+at+your+changes.%0A---%3E%0A#a-little-about-me)
+- [Development History](https://github.com/int91/int91/new/main?filename=README.md&path=%2F&value=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40int91%0A-+%F0%9F%91%80+I%E2%80%99m+interested+in+...%0A-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...%0A-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...%0A-+%F0%9F%93%AB+How+to+reach+me+...%0A%0A%3C%21---%0Aint91%2Fint91+is+a+%E2%9C%A8+special+%E2%9C%A8+repository+because+its+%60README.md%60+%28this+file%29+appears+on+your+GitHub+profile.%0AYou+can+click+the+Preview+link+to+take+a+look+at+your+changes.%0A---%3E%0A#my-development-history)
+- [My Current Project](https://github.com/int91/int91/new/main?filename=README.md&path=%2F&value=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40int91%0A-+%F0%9F%91%80+I%E2%80%99m+interested+in+...%0A-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...%0A-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...%0A-+%F0%9F%93%AB+How+to+reach+me+...%0A%0A%3C%21---%0Aint91%2Fint91+is+a+%E2%9C%A8+special+%E2%9C%A8+repository+because+its+%60README.md%60+%28this+file%29+appears+on+your+GitHub+profile.%0AYou+can+click+the+Preview+link+to+take+a+look+at+your+changes.%0A---%3E%0A#my-current-project)
+
+### A Little About Me
+I am a former Professional Esports Competitor across the following games:
+- Supraball
+- Rogue Company
+- Phantom Forces (Yes the Roblox game)
+- Bad Business (Yep another Roblox game)
+
+I have played video games my whole life almost, starting back when I was only **3** years old.
+I still play games all the time and am currently doing a "Road to GC" series in [Rocket League Sideswipe](https://sideswipe.rocketleague.com/) over on my [Twitch](https://www.twitch.tv/c_onvulse).
+I stream nearly everyday and I plan to keep it up the best I can. I also coach players in Rocket League Sideswipe. If you are looking for coaching or just any tips to improve feel free to join my [discord server](https://discord.gg/fbgUBBVub6).
+
+
+### My Development History
+
+I started Programming back in 2017 with C#. I taught myself how to make simple projects like 8-ball programs and mini-text adventure games. 
+I taught myself through various online resources, one of those being YouTube of course.
+I now try my best to **not** use YouTube as a resource for programming and stick to books or the specific language's/engine's documentation.
+I believe that using YouTube with a certain mindset when trying to learn will produce a form of linear problem solving ability.
+In programming it's ideal to not only learn your preferred language, but to also master problem solving, whether it's through techniques like narrowing things down to the minimal
+components or just figuring out how to solve the problem through consistent methodology. You **need** to be able to solve problems when programming.
+
+I have created numerous projects shown in the table below.
+
+| Project  | Language / Engine |
+| ------------- | ------------- |
+| [Buy Sell Trade](https://convulse.itch.io/bst-oldgame) | C# Console App |
+| [Falling Cubes *Original*](https://convulse.itch.io/fallingcubesagk) | 2D Game Made In App Game Kit + AGKBASIC  |
+| [Falling Cubes *Lua Version*](https://convulse.itch.io/fallingcubesle) | 2D Game Made In Love2D |
+| [Falling Cubes *Python Version*](https://github.com/int91/FallingCubes-Python) | 2D Game Made In Python + pygame |
+| [Bank Manager App](https://github.com/int91/BankManagerApp) | Simple Application Made In Python |
+| [OffPass - Account Manager](https://convulse.itch.io/offpass) | Account Manager Made In Godot + gdscript |
+| [Case Simulator](https://github.com/int91/case-simulator) | 2D Gambling Game Made In Godot + gdscript |
+| [PC Shop Tycoon](https://github.com/int91/PcShopTycoon) | Really Old Unity Game Made In C# + Unity |
+|^ updated as of December 17th, 2021 | |
+
+I'm currently learning multiplayer game development with [Godot Engine](https://godotengine.org/).
+
+### My Current Project
+
+Details about my current project can be found [here](invictusinfo.md) 
+
+[invictusinfo.md](invictusinfo.md)
