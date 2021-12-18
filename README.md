@@ -48,6 +48,6 @@ Details about my current project can be found [here](invictusinfo.md)
 
 [invictusinfo.md](invictusinfo.md)
 
-The project todo and bug list can be found [here](https://github.com/users/int91/projects/1)
+The project todo and bug list can be found [here](https://github.com/users/int91/projects/1).
 
 [Invictus](https://github.com/users/int91/projects/1)
