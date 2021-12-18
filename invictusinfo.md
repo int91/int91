@@ -6,8 +6,7 @@ Project Invictus is a game very similar to [Melvor Idle](https://melvoridle.com/
 
 The Game Development Document for Project Invictus is currently in the works, I am expecting a week or two to fully complete the document.
 
-The project page for Invictus can be found [here](https://trello.com/b/4JIAz9v0/project-invictus-board).
-
+The project page for Invictus can be found here
 [Invictus Trello](https://trello.com/b/4JIAz9v0/project-invictus-board)
 
 [https://trello.com/b/4JIAz9v0/project-invictus-board](https://trello.com/b/4JIAz9v0/project-invictus-board)
