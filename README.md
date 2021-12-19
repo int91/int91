@@ -27,6 +27,7 @@ In programming it's ideal to not only learn your preferred language, but to also
 components or just figuring out how to solve the problem through consistent methodology. You **need** to be able to solve problems when programming.
 
 I have created numerous projects shown in the table below.
+You can find some of my projects on [itch.io](https://convulse.itch.io) [https://convulse.itch.io](https://convulse.itch.io)
 
 | Project  | Language / Engine |
 | ------------- | ------------- |
