@@ -44,13 +44,11 @@ I'm currently learning multiplayer game development with [Godot Engine](https://
 
 ### My Current Project
 
-Details about my current project can be found [here](invictusinfo.md) 
+Details about my current project can be found [here](invictusinfo.md) |
+ [invictusinfo.md](invictusinfo.md)
 
-[invictusinfo.md](invictusinfo.md)
-
-The project trello can be found [here](https://trello.com/b/4JIAz9v0/project-invictus-board).
-
-[https://trello.com/b/4JIAz9v0/project-invictus-board](https://trello.com/b/4JIAz9v0/project-invictus-board)
+The project trello can be found [here](https://trello.com/b/4JIAz9v0/project-invictus-board)
+ | [https://trello.com/b/4JIAz9v0/project-invictus-board](https://trello.com/b/4JIAz9v0/project-invictus-board)
 
 I'm making my project under the studio
 
