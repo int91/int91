@@ -7,6 +7,6 @@ Ogue is a text-based sandbox rpg in which the player is thrown into a vast world
 The Game Development Document for Ogue is currently in the works, I am expecting a week or two to fully complete the document.
 
 The project page for Ogue can be found here
-[Invictus Trello](https://trello.com/b/4JIAz9v0/project-invictus-board)
+[Ogue Trello](https://trello.com/b/4JIAz9v0/project-invictus-board)
 
-[https://trello.com/b/4JIAz9v0/project-invictus-board](https://trello.com/b/4JIAz9v0/project-invictus-board)
+[https://trello.com/b/4JIAz9v0/project-ogue-board](https://trello.com/b/4JIAz9v0/project-invictus-board)
