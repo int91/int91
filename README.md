@@ -44,8 +44,6 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 | [The Bad Clicky Game](https://convulse.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++ |
 |^ updated as of December 17th, 2021 | |
 
-I'm currently learning multiplayer game development with [Godot Engine](https://godotengine.org/).
-
 ### My Current Project
 
 Details about my current project can be found [here](invictusinfo.md) |
