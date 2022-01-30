@@ -41,7 +41,7 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 | [OffPass - Account Manager](https://convulse.itch.io/offpass) | Account Manager Made In Godot + gdscript |
 | [Case Simulator](https://github.com/int91/case-simulator) | 2D Gambling Game Made In Godot + gdscript |
 | [PC Shop Tycoon](https://github.com/int91/PcShopTycoon) | Really Old Unity Game Made In C# + Unity |
-| [The Bad Clicky Game](https://convulse.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++ |
+| [The Bad Clicky Game](https://convulse.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++, Raylib & C#, and Godot & C#|
 |^ updated as of December 17th, 2021 | |
 
 ### My Current Project
