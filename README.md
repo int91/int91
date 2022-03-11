@@ -43,7 +43,7 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 | [PC Shop Tycoon](https://github.com/int91/PcShopTycoon) | Really Old Unity Game Made In C# + Unity |
 | [The Bad Clicky Game](https://convulse.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++, Raylib & C#, and Godot & C#|
 | [CargoTransportSim](https://github.com/int91/CargoTransportSim) | Fully Open-Source Text-Based Logististics Simulator inspired by Euro Truck Sim 2, written in C++ |
-|^ updated as of January 29th, 2022 | |
+|^ updated as of March 11th, 2022 | |
 
 ### My Current Project
 
