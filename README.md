@@ -42,16 +42,13 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 | [Case Simulator](https://github.com/int91/case-simulator) | 2D Gambling Game Made In Godot + gdscript |
 | [PC Shop Tycoon](https://github.com/int91/PcShopTycoon) | Really Old Unity Game Made In C# + Unity |
 | [The Bad Clicky Game](https://convulse.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++, Raylib & C#, and Godot & C#|
+| [CargoTransportSim](https://github.com/int91/CargoTransportSim) | Fully Open-Source Text-Based Logististics Simulator inspired by Euro Truck Sim 2, written in C++ |
 |^ updated as of January 29th, 2022 | |
 
 ### My Current Project
 
-Details about my current project can be found [here](invictusinfo.md) |
- [ogueinfo.md](ogueinfo.md)
+[Cargo Transport Simulator](https://github.com/int91/CargoTransportSim) is a game in which you run your own Cargo Logistics company. Start out as a simple lonewolf business owner and work your way up to compete with the best in the logistics industry. Inspired by Euro Truck Simulator.
 
-The project trello can be found [here](https://trello.com/b/4JIAz9v0/project-invictus-board)
- | [https://trello.com/b/4JIAz9v0/project-invictus-board](https://trello.com/b/4JIAz9v0/project-invictus-board)
-
-I'm making my project under the studio
+I'm making my projects under the studio name (Not an actual studio, just a psuedonym for development.
 
 ![Yellow Space Interactive](yellow_space_interactive_logo_final_banner.png)
