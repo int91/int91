@@ -55,7 +55,7 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 
 #### Close-Source Projects
 
-- Welcome Gods, to Invictus. Invictus is a turn-based competitive multiplayer game. Pick your specialist, weapons, armors, and items. Fight your opponent through a rigorous turn-based combat system designed from the ground up to be a game of mentality. May the better God win.
+- Welcome Gods, to Invictus. Invictus is a turn-based competitive multiplayer game. Pick your specialist, weapons, armors, and items. Fight your opponent through a rigorous turn-based combat system designed from the ground up to test your mind and punish any wrong move. May the better God win.
 - The "True-Skill" ranking system is a visible elo system designed to reward good performance as well as punish bad performance. This system uses every trackable statistic to determine your "True-Skill". Winning and Losing will no longer be the absolute game ender for ranked play.
 
 I'm making my projects under the studio name (Not an actual studio, just a psuedonym for development.
