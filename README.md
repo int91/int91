@@ -47,9 +47,16 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 | [Circle Speed Test](https://convulse.itch.io/circle-speed-test) | A Simple 2D Skill Game Where You Click Circles |
 |^ updated as of March 27th, 2022 | |
 
-### My Current Project
+### My Current Projects
 
-[Cargo Transport Simulator](https://github.com/int91/CargoTransportSim) is a game in which you run your own Cargo Logistics company. Start out as a simple lonewolf business owner and work your way up to compete with the best in the logistics industry. Inspired by Euro Truck Simulator.
+#### Open-Source Projects
+
+- [Cargo Transport Simulator](https://github.com/int91/CargoTransportSim) is a game in which you run your own Cargo Logistics company. Start out as a simple lonewolf business owner and work your way up to compete with the best in the logistics industry. Inspired by Euro Truck Simulator.
+
+#### Close-Source Projects
+
+- Welcome Gods, to Invictus. Invictus is a turn-based competitive multiplayer game. Pick your specialist, weapons, armors, and items. Fight your opponent through a rigorous turn-based combat system designed from the ground up to be a game of mentality. May the better God win.
+- The "True-Skill" ranking system is a visible elo system designed to reward good performance as well as punish bad performance. This system uses every trackable statistic to determine your "True-Skill". Winning and Losing will no longer be the absolute game ender for ranked play.
 
 I'm making my projects under the studio name (Not an actual studio, just a psuedonym for development.
 
