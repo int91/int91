@@ -11,6 +11,7 @@ I am a former Professional Esports Competitor across the following games:
 - Rogue Company
 - Phantom Forces (Yes the Roblox game)
 - Bad Business (Yep another Roblox game)
+- Rocket League Sideswipe
 
 I have played video games my whole life almost, starting back when I was only **3** years old.
 I still play games all the time and am currently doing a "Road to GC" series in [Rocket League Sideswipe](https://sideswipe.rocketleague.com/) over on my [Twitch](https://www.twitch.tv/c_onvulse).
