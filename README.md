@@ -27,6 +27,9 @@ I believe that using YouTube with a certain mindset when trying to learn will pr
 In programming it's ideal to not only learn your preferred language, but to also master problem solving, whether it's through techniques like narrowing things down to the minimal
 components or just figuring out how to solve the problem through consistent methodology. You **need** to be able to solve problems when programming.
 
+I currently have SoloLearn certs in Python (Basic usage), C#, and HTML. (Working on a Java cert)
+I am also currently studying for the CompTIA Security+ Exam and plan to take the CompTIA A+ soon after.
+
 I have created numerous projects shown in the table below.
 You can find some of my projects on [itch.io](https://convulse.itch.io) [https://convulse.itch.io](https://convulse.itch.io)
 
