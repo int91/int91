@@ -53,7 +53,7 @@ You can find some of my projects on [itch.io](https://convulse.itch.io) [https:/
 
 ### My Current Projects
 
-- Welcome Commanders, to Invictus. Invictus is a turn-based competitive multiplayer game. Pick your specialists, weapons, armors, and items. Be ready to battle your opponent through a rigorous turn-based combat system designed from the ground up to test your mind and punish mistakes. May the better Commander win.
+- Focusing on a private project atm
 
 #### Open-Source Projects
 
