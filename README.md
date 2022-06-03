@@ -33,7 +33,7 @@ I am also currently studying for the CompTIA Security+ Exam and plan to take the
 I have created numerous projects shown in the table below.
 You can find some of my projects on [itch.io](https://convulse.itch.io) [https://convulse.itch.io](https://convulse.itch.io)
 
-| Project  | Language / Engine |
+| Finished Project  | Language / Engine |
 | ------------- | ------------- |
 | [Buy Sell Trade](https://convulse.itch.io/bst-oldgame) | C# Console App |
 | [Falling Cubes *Original*](https://convulse.itch.io/fallingcubesagk) | 2D Game Made In App Game Kit + AGKBASIC  |
