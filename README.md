@@ -1,4 +1,4 @@
-# Hello, I’m @int91 also known as c_onvulse.
+# Hello, I’m @int91 also known as zenqur.
 
 ### Table Of Contents
 - [About Me](https://github.com/int91#a-little-about-me)
