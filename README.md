@@ -14,9 +14,7 @@ I am a former Professional Esports Competitor across the following games:
 - Rocket League Sideswipe
 
 I have played video games my whole life almost, starting back when I was only **3** years old.
-I still play games all the time and am currently doing a "Road to GC" series in [Rocket League Sideswipe](https://sideswipe.rocketleague.com/) over on my [Twitch](https://www.twitch.tv/c_onvulse).
-I stream nearly everyday and I plan to keep it up the best I can. I also coach players in Rocket League Sideswipe. If you are looking for coaching or just any tips to improve feel free to join my [discord server](https://discord.gg/fbgUBBVub6).
-
+I still play games all the time and am currently trying to get better at assetto corsa to be a good sim racer in the future.
 
 ### My Development History
 
