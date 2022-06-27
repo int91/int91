@@ -29,23 +29,23 @@ I currently have SoloLearn certs in Python (Basic usage), C#, and HTML. (Working
 I am also currently studying for the CompTIA Security+ Exam and plan to take the CompTIA A+ soon after.
 
 I have created numerous projects shown in the table below.
-You can find some of my projects on [itch.io](https://convulse.itch.io) [https://convulse.itch.io](https://convulse.itch.io)
+You can find some of my projects on [itch.io](https://zenqur.itch.io) [https://zenqur.itch.io](https://zenqur.itch.io)
 
 | Finished Project  | Language / Engine |
 | ------------- | ------------- |
-| [Buy Sell Trade](https://convulse.itch.io/bst-oldgame) | C# Console App |
-| [Falling Cubes *Original*](https://convulse.itch.io/fallingcubesagk) | 2D Game Made In App Game Kit + AGKBASIC  |
-| [Falling Cubes *Lua Version*](https://convulse.itch.io/fallingcubesle) | 2D Game Made In Love2D |
+| [Buy Sell Trade](https://zenqur.itch.io/bst-oldgame) | C# Console App |
+| [Falling Cubes *Original*](https://zenqur.itch.io/fallingcubesagk) | 2D Game Made In App Game Kit + AGKBASIC  |
+| [Falling Cubes *Lua Version*](https://zenqur.itch.io/fallingcubesle) | 2D Game Made In Love2D |
 | [Falling Cubes *Python Version*](https://github.com/int91/FallingCubes-Python) | 2D Game Made In Python + pygame |
 | [Falling Cubes *C# Version*](https://github.com/int91/FallingCubesSharp) | 2D Game Made In C# + Raylib_cs (Don't use it, use Raylib_CsLo)|
 | [Bank Manager App](https://github.com/int91/BankManagerApp) | Simple Application Made In Python |
-| [Untitled RPG Game](https://convulse.itch.io/urpg) | Small GUI Driven RPG made in Godot (Password to view page is "github")|
-| [OffPass - Account Manager](https://convulse.itch.io/offpass) | Account Manager Made In Godot + gdscript |
+| [Untitled RPG Game](https://zenqur.itch.io/urpg) | Small GUI Driven RPG made in Godot (Password to view page is "github")|
+| [OffPass - Account Manager](https://zenqur.itch.io/offpass) | Account Manager Made In Godot + gdscript |
 | [Case Simulator](https://github.com/int91/case-simulator) | 2D Gambling Game Made In Godot + gdscript |
 | [PC Shop Tycoon](https://github.com/int91/PcShopTycoon) | Really Old Unity Game Made In C# + Unity |
-| [The Bad Clicky Game](https://convulse.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++, Raylib & C#, and Godot & C#|
+| [The Bad Clicky Game](https://zenqur.itch.io/tbcg) | 2D Skillbased Clicker Game Made With Raylib & C++, Raylib & C#, and Godot & C#|
 | [CargoTransportSim](https://github.com/int91/CargoTransportSim) | Fully Open-Source Text-Based Logististics Simulator inspired by Euro Truck Sim 2, written in C++ |
-| [Circle Speed Test](https://convulse.itch.io/circle-speed-test) | A Simple 2D Skill Game Where You Click Circles |
+| [Circle Speed Test](https://zenqur.itch.io/circle-speed-test) | A Simple 2D Skill Game Where You Click Circles |
 | [True-Skill Ranking System](https://github.com/int91/TrueSkillRankingSystem) | A ranking system designed to become the new standard for calculating player skill in  competitive games | 
 |^ updated as of March 31st, 2022 | |
 
